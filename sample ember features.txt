@@ -1,0 +1,53 @@
+ByteHistorgram
+ByteEntropyHistorgram
+# of consecutive printable strings
+avg length of consecutive printable strings
+sum of frequencies of all the printable characters
+freq of printable characters -  
+entropy of the byte histogram
+occurrences of the string "c:\" (ignore case)
+occurrences of "http://" or "https://".  (ignore case)
+occurrences of the string prefix "HKEY_"
+occurrences of "MZ"
+length of the bytes of the file
+virtual size of the lief parsed binary
+whether the binary has a debug section
+# of exported functions
+# of imported functions
+whether the binary use "Relocation"
+whether the binary has a "Resources" object
+whether the binary is signed
+whether the binary has a "TLS" object
+# of Symbols
+when the file was created
+hash COFF machine type
+hash COFF characteristics
+hash optional subsystem
+hash optional dll_characteristics
+hash optional magic number
+major_image_version
+minor_image_version
+major_linker_version
+minor_linker_version
+major_operating_system_version
+minor_operating_system_version
+major_subsystem_version
+minor_subsystem_version
+sizeof_code
+sizeof_headers
+sizeof_heap_commit
+total # of sections
+# of sections with zero size
+# of sections with empty name
+# of sections with "props" including "MEM_READ" and "MEM_EXECUTE"
+# of sections with "props" including "MEM_WRITE"
+hash on pair of section name and size
+hash on pair of section name and entropy
+hash on pair of section name and virtual size
+hash on name of entry point
+hash on list of properties of entry point
+hash on list of unique imported libraries
+hash on list of library:function
+hash on list of exported functions
+size of data directories
+virtual size of data directories
